@@ -177,3 +177,5 @@ voc-translate/
 
 - 원본 로컬 실행 버전: `start-here/hands-on/llm` (스크립트 + 웹 시각화)
 - 트랜스포머 개념·수식: [혼자서 공부하는 MLDL — 어텐션 메커니즘과 트랜스포머](https://github.com/cna-bootcamp/aistudy/blob/main/start-here/혼자서공부하는%20MLDL.md)
+
+<!-- 마지막 업데이트: 2026-07-13 (테스트용 더미 변경) -->
