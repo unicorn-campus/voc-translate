@@ -25,13 +25,19 @@
 ## 🌧️ 먼저 워밍업하기 (선택, ~20분)
 
 본 실습이 부담스럽다면, **"하늘에 먹구름이 많아지면 뭐가 생각나?"** 한 문장으로 트랜스포머의
-핵심 직관(**어텐션·순차 생성**)을 먼저 익혀 보세요. 코드를 **직접 타이핑**하며 배우는 자습 노트북입니다.
+핵심 직관(**어텐션·순차 생성**)을 먼저 익혀 보세요.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unicorn-campus/voc-translate/blob/main/example/example.ipynb)
+1. **자세한 설명 먼저 읽기**: [`example-detailed.ipynb`](https://colab.research.google.com/github/unicorn-campus/mini-transformer/blob/main/example-detailed.ipynb) 를 열어 개념 설명을 천천히 읽습니다.
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unicorn-campus/mini-transformer/blob/main/example-detailed.ipynb)
+
+2. **직접 타이핑하며 익히기**: [`example.ipynb`](https://colab.research.google.com/github/unicorn-campus/mini-transformer/blob/main/example.ipynb) 를 열어 코드를 **직접 타이핑**하며 자습합니다.
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unicorn-campus/mini-transformer/blob/main/example.ipynb)
 
 - 답 "비"를 만들려면 질문의 "먹구름"에 **주목**해야 함 → 그게 바로 **어텐션**
 - CPU로 수 초, 추가 설치 없이 셀만 눌러 진행 (같은 구조를 아래 본 과제에서 번역으로 확장)
-- 폴더: [`example/`](example/) — 노트북 · 독립 실행 프로그램 · 설명
+- 저장소: [`unicorn-campus/mini-transformer`](https://github.com/unicorn-campus/mini-transformer)
 
 ## 🚀 Colab 환경 설정
 
