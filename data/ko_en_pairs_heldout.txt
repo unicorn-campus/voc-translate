@@ -1,0 +1,20 @@
+구매자가 쿠폰을 발송한다	the buyer sends out the coupon
+고객이 쿠폰을 발송한다	the customer sends out the coupon
+환불이 완료된다	the refund is completed
+판매자가 주문을 발송한다	the seller sends out the order
+구매자가 환불을 발송한다	the buyer sends out the refund
+상담원이 배송을 등록한다	the agent registers the delivery
+판매자가 재고를 취소한다	the seller cancels the stock
+상담원이 교환을 문의한다	the agent inquires about the exchange
+상담원이 결제를 발송한다	the agent sends out the payment
+상담원이 리뷰를 발송한다	the agent sends out the review
+고객이 환불을 등록한다	the customer registers the refund
+상담원이 재고를 처리한다	the agent processes the stock
+구매자가 결제를 등록한다	the buyer registers the payment
+판매자가 쿠폰을 발송한다	the seller sends out the coupon
+판매자가 배송을 발송한다	the seller sends out the delivery
+판매자가 주문을 취소한다	the seller cancels the order
+상담원이 환불을 확인한다	the agent checks the refund
+구매자가 배송을 확인한다	the buyer checks the delivery
+판매자가 주문을 처리한다	the seller processes the order
+결제가 지연된다	the payment is delayed

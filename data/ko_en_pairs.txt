@@ -1,0 +1,100 @@
+고객이 쿠폰을 취소한다	the customer cancels the coupon
+상담원이 주문을 요청한다	the agent requests the order
+고객이 배송을 확인한다	the customer checks the delivery
+구매자가 재고를 요청한다	the buyer requests the stock
+구매자가 결제를 문의한다	the buyer inquires about the payment
+판매자가 재고를 요청한다	the seller requests the stock
+판매자가 리뷰를 발송한다	the seller sends out the review
+상담원이 환불을 발송한다	the agent sends out the refund
+교환이 완료된다	the exchange is completed
+고객이 쿠폰을 확인한다	the customer checks the coupon
+상담원이 환불을 문의한다	the agent inquires about the refund
+판매자가 교환을 처리한다	the seller processes the exchange
+고객이 재고를 요청한다	the customer requests the stock
+구매자가 교환을 요청한다	the buyer requests the exchange
+상담원이 주문을 취소한다	the agent cancels the order
+상담원이 재고를 문의한다	the agent inquires about the stock
+고객이 교환을 문의한다	the customer inquires about the exchange
+상담원이 배송을 처리한다	the agent processes the delivery
+판매자가 교환을 요청한다	the seller requests the exchange
+판매자가 리뷰를 취소한다	the seller cancels the review
+상담원이 쿠폰을 요청한다	the agent requests the coupon
+판매자가 배송을 요청한다	the seller requests the delivery
+구매자가 배송을 취소한다	the buyer cancels the delivery
+상담원이 배송을 취소한다	the agent cancels the delivery
+상담원이 리뷰를 확인한다	the agent checks the review
+판매자가 결제를 등록한다	the seller registers the payment
+구매자가 재고를 문의한다	the buyer inquires about the stock
+환불이 지연된다	the refund is delayed
+판매자가 재고를 발송한다	the seller sends out the stock
+상담원이 배송을 문의한다	the agent inquires about the delivery
+상담원이 결제를 요청한다	the agent requests the payment
+구매자가 주문을 등록한다	the buyer registers the order
+구매자가 환불을 취소한다	the buyer cancels the refund
+재고가 완료된다	the stock is completed
+고객이 배송을 등록한다	the customer registers the delivery
+결제가 완료된다	the payment is completed
+구매자가 쿠폰을 확인한다	the buyer checks the coupon
+고객이 교환을 발송한다	the customer sends out the exchange
+판매자가 재고를 등록한다	the seller registers the stock
+구매자가 결제를 처리한다	the buyer processes the payment
+상담원이 교환을 등록한다	the agent registers the exchange
+고객이 배송을 취소한다	the customer cancels the delivery
+판매자가 결제를 요청한다	the seller requests the payment
+고객이 재고를 확인한다	the customer checks the stock
+고객이 쿠폰을 문의한다	the customer inquires about the coupon
+판매자가 쿠폰을 처리한다	the seller processes the coupon
+구매자가 쿠폰을 등록한다	the buyer registers the coupon
+구매자가 재고를 등록한다	the buyer registers the stock
+고객이 주문을 처리한다	the customer processes the order
+판매자가 환불을 문의한다	the seller inquires about the refund
+상담원이 배송을 요청한다	the agent requests the delivery
+고객이 결제를 취소한다	the customer cancels the payment
+고객이 주문을 등록한다	the customer registers the order
+상담원이 환불을 등록한다	the agent registers the refund
+구매자가 주문을 처리한다	the buyer processes the order
+고객이 주문을 취소한다	the customer cancels the order
+고객이 환불을 요청한다	the customer requests the refund
+구매자가 환불을 확인한다	the buyer checks the refund
+상담원이 배송을 확인한다	the agent checks the delivery
+상담원이 쿠폰을 취소한다	the agent cancels the coupon
+상담원이 재고를 발송한다	the agent sends out the stock
+판매자가 교환을 취소한다	the seller cancels the exchange
+구매자가 쿠폰을 요청한다	the buyer requests the coupon
+판매자가 리뷰를 문의한다	the seller inquires about the review
+고객이 주문을 확인한다	the customer checks the order
+상담원이 리뷰를 등록한다	the agent registers the review
+주문이 완료된다	the order is completed
+구매자가 교환을 처리한다	the buyer processes the exchange
+구매자가 쿠폰을 문의한다	the buyer inquires about the coupon
+상담원이 리뷰를 요청한다	the agent requests the review
+상담원이 재고를 등록한다	the agent registers the stock
+고객이 쿠폰을 등록한다	the customer registers the coupon
+상담원이 주문을 문의한다	the agent inquires about the order
+상담원이 결제를 처리한다	the agent processes the payment
+구매자가 교환을 문의한다	the buyer inquires about the exchange
+고객이 리뷰를 취소한다	the customer cancels the review
+고객이 배송을 발송한다	the customer sends out the delivery
+구매자가 교환을 확인한다	the buyer checks the exchange
+배송이 지연된다	the delivery is delayed
+구매자가 배송을 요청한다	the buyer requests the delivery
+고객이 재고를 등록한다	the customer registers the stock
+고객이 주문을 문의한다	the customer inquires about the order
+판매자가 쿠폰을 등록한다	the seller registers the coupon
+판매자가 재고를 처리한다	the seller processes the stock
+판매자가 재고를 문의한다	the seller inquires about the stock
+고객이 리뷰를 확인한다	the customer checks the review
+상담원이 결제를 문의한다	the agent inquires about the payment
+판매자가 환불을 등록한다	the seller registers the refund
+구매자가 교환을 등록한다	the buyer registers the exchange
+고객이 재고를 발송한다	the customer sends out the stock
+판매자가 쿠폰을 문의한다	the seller inquires about the coupon
+상담원이 쿠폰을 등록한다	the agent registers the coupon
+구매자가 결제를 발송한다	the buyer sends out the payment
+판매자가 배송을 문의한다	the seller inquires about the delivery
+구매자가 결제를 요청한다	the buyer requests the payment
+판매자가 리뷰를 요청한다	the seller requests the review
+리뷰가 완료된다	the review is completed
+고객이 재고를 처리한다	the customer processes the stock
+상담원이 교환을 요청한다	the agent requests the exchange
+판매자가 쿠폰을 확인한다	the seller checks the coupon

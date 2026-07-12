@@ -1,0 +1,32 @@
+{
+  "domain": "이커머스 상품 문의 (e-commerce customer-service inquiries)",
+  "subjects": [
+    {"ko": "고객", "en": "the customer"},
+    {"ko": "구매자", "en": "the buyer"},
+    {"ko": "상담원", "en": "the agent"},
+    {"ko": "판매자", "en": "the seller"}
+  ],
+  "objects": [
+    {"ko": "주문", "en": "the order"},
+    {"ko": "배송", "en": "the delivery"},
+    {"ko": "환불", "en": "the refund"},
+    {"ko": "교환", "en": "the exchange"},
+    {"ko": "재고", "en": "the stock"},
+    {"ko": "리뷰", "en": "the review"},
+    {"ko": "쿠폰", "en": "the coupon"},
+    {"ko": "결제", "en": "the payment"}
+  ],
+  "transitive_predicates": [
+    {"ko": "문의하다", "en": "inquires about"},
+    {"ko": "요청하다", "en": "requests"},
+    {"ko": "확인하다", "en": "checks"},
+    {"ko": "취소하다", "en": "cancels"},
+    {"ko": "처리하다", "en": "processes"},
+    {"ko": "등록하다", "en": "registers"},
+    {"ko": "발송하다", "en": "sends out"}
+  ],
+  "status_predicates": [
+    {"ko": "지연되다", "en": "is delayed"},
+    {"ko": "완료되다", "en": "is completed"}
+  ]
+}
