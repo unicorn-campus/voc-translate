@@ -22,6 +22,17 @@
 각 항목은 **개념 비유 → (빈칸 채우기) → 즉시 결과 확인**으로 구성되며, 마지막 **7. 캡스톤**에서 완성한
 부품을 조립해 실제로 학습·번역합니다.
 
+## 🌧️ 먼저 워밍업하기 (선택, ~20분)
+
+본 실습이 부담스럽다면, **"하늘에 먹구름이 많아지면 뭐가 생각나?"** 한 문장으로 트랜스포머의
+핵심 직관(**어텐션·순차 생성**)을 먼저 익혀 보세요. 코드를 **직접 타이핑**하며 배우는 자습 노트북입니다.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unicorn-campus/voc-translate/blob/main/example/example.ipynb)
+
+- 답 "비"를 만들려면 질문의 "먹구름"에 **주목**해야 함 → 그게 바로 **어텐션**
+- CPU로 수 초, 추가 설치 없이 셀만 눌러 진행 (같은 구조를 아래 본 과제에서 번역으로 확장)
+- 폴더: [`example/`](example/) — 노트북 · 독립 실행 프로그램 · 설명
+
 ## 🚀 Colab 환경 설정
 
 이 실습은 **구글 Colab(Colaboratory)** 에서 진행합니다. Colab은 구글이 무료로 제공하는 "웹 브라우저에서
